@@ -15,3 +15,7 @@ Feel free, but I don't know if I will continue to work on this project as sortin
 
 # Licence
 Everything is provided as is without any warranties or guarantees. Use at your own risk, but feel free to do so ;)
+
+
+# more details...
+in the [Wiki](https://github.com/RobertGetzner/IronBeadSorter/wiki)
