@@ -16,6 +16,14 @@ Feel free, but I don't know if I will continue to work on this project as sortin
 # Licence
 Everything is provided as is without any warranties or guarantees. Use at your own risk, but feel free to do so ;)
 
+# Prior art
+there are several similar projects, where I got some of my ideas. Please check out: 
+- https://github.com/HEN3DRIK/BeadSorter
+- https://hackaday.com/2018/10/07/robot-sorts-beads-by-color/
+- https://blog.arduino.cc/2022/02/16/sorting-beads-the-easy-way/
+- https://youtu.be/Ew2EFa5V5R8
+- https://youtu.be/YHq0fRUBrX0
+- https://youtu.be/LNxA1oXaZy4
 
 # more details...
 in the [Wiki](https://github.com/RobertGetzner/IronBeadSorter/wiki)
