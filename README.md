@@ -1,7 +1,7 @@
 # Project Title: Iron Bead Sorter
 
 # Description
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/-1g7FlirL24)
+Watch the video: https://youtu.be/-1g7FlirL24
 
 My Iron Beads color sorting machine utilizes an USB camera connected to a PC, OpenCV for image processing, and an Arduino UNO to control two stepper motors. The machine operates by analyzing images from the USB camera for circular shapes, masking the found circles, and comparing the remaining histogram to histograms of training images. 
 
